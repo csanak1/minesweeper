@@ -1,0 +1,38 @@
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeperForm.resources
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+F:\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+E:\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeperForm.resources
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+E:\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeperForm.resources
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+\\emea\dfs_root\users\csanak1\Dokumentumok\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeperForm.resources
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+G:\Projects\Visual Studio\DotNET Framework\WinForms\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
